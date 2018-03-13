@@ -2,7 +2,6 @@ import sys
 import networkx as nx
 import igraph
 from math import *
-#from mpmath import *
 import random
 import numpy
 import matplotlib.pyplot as plt
